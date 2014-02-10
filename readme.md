@@ -53,18 +53,36 @@ The following list is a curated list of front-end development resources.
 * <https://www.meldium.com/>
 
 ## Workspace
+### CLI
 * [**git**](http://git-scm.com/)
 * [git Cheat Sheet](http://scotch.io/bar-talk/git-cheat-sheet)
 * [Node.js](http://nodejs.org/) - Install it via [NVM](https://github.com/creationix/nvm)
+* [Yeoman](http://yeoman.io/index.html) - Yeoman is an open source project which defines an opinionated stack for web application development.
+  * Installation: `npm install -g yo`
+* [Bower](http://bower.io/) - Bower is a package manager for the web.
+  * Installation: `npm install -g bower`
+  * [Bower Component Search](http://bower.io/search/)
+* [Grunt](http://gruntjs.com/) - Grunt is a Task Runner. You can run various scripts onto your project folder and performs tasks like compile sass files, minify js or save files to a build folder.
+  * Installation: `npm install -g grunt-cli`
+* [Gulp](http://gulpjs.com/) - Another Task Runner. API is minimal but functional, it's more straight-forward than Grunt but less plugins available. The community is steadily growing.
+  * [Gulp Plugins](http://gulpjs.com/plugins/)
 * <http://anti-code.com/devtools-cheatsheet/>
-* [Yeoman](http://yeoman.io/index.html)
-* [Bower](http://bower.io/)
-* [Bower Component Search](http://bower.io/search/)
-* Grunt
-* Gulp
 
 
 ### Apps
+* Sublime Text
+  * Install [Package Manager](https://sublime.wbond.net/)
+    * Recommended Packages
+      * Emmet
+      * Sidebar Enhancements
+  * Recommended Theme: [Spacegray](http://kkga.github.io/spacegray/)
+* Sketch
+* MAMP
+* nvALT
+* Divvy
+* Codekit
+* Codebox
+* Transmit
 * [Visual Enhancements for better coding](http://webdesign.tutsplus.com/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052)
 * <https://github.com/tooling/book-of-modern-frontend-tooling>
 * Recommended plugins
