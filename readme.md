@@ -6,24 +6,67 @@ The following list is a curated list of front-end development resources.
 * Add more links
 * Determine better organization
 * Give links context
+* **Categories**
+* Workspace
+  * Command Line Interface (CLI) - Include one liners
+  * Apps
+* Teamwork
+* Workflow
+* Design
+* Prototype
+* Planning & Documentation
+* Development
+  * Reference
+  * Best Practices
+    * Beginning Period
+    * During
+    * Ending Period
+  * Frameworks
+  * HTML
+  * Styles
+    * CSS
+    * SASS
+  * JavaScript
+    * Reference
+    * Frameworks
+    * Components
+    * Libraries
+* Testing
+  * Reference
+  * Dev Tools
+  * Bookmarklets
+  * Cross Browser
+  * Performance
+* Keeping Up To Date
+  * Newsletters
+  * Further Education
+* Other Comprehensive Lists
+
 
 ## Planning
 * <http://addyosmani.com/resources/toolschart/chart.pdf>
 
-## Collaboration
+## Teamwork
 * <https://github.com>
 * <https://redpen.io/>
-* <http://daux.io/>
 * <https://gitter.im/>
+* <https://www.meldium.com/>
 
 ## Workspace
+* [**git**](http://git-scm.com/)
+* [git Cheat Sheet](http://scotch.io/bar-talk/git-cheat-sheet)
+* [Node.js](http://nodejs.org/) - Install it via [NVM](https://github.com/creationix/nvm)
 * <http://anti-code.com/devtools-cheatsheet/>
-* <http://yeoman.io/index.html>
-* <http://webdesign.tutsplus.com/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052>
-* <https://github.com/tooling/book-of-modern-frontend-tooling>
-* Bower
+* [Yeoman](http://yeoman.io/index.html)
+* [Bower](http://bower.io/)
+* [Bower Component Search](http://bower.io/search/)
 * Grunt
 * Gulp
+
+
+### Apps
+* [Visual Enhancements for better coding](http://webdesign.tutsplus.com/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052)
+* <https://github.com/tooling/book-of-modern-frontend-tooling>
 * Recommended plugins
 * <https://speakerdeck.com/addyosmani/automating-front-end-workflow>
 
@@ -32,6 +75,7 @@ The following list is a curated list of front-end development resources.
 * <http://subtlepatterns.com/>
 * <http://fontello.com/>
 * <http://meettheipsums.com/>
+* <http://www.gratisography.com/>
 
 ## Prototype
 * <https://github.com/sahat/hackathon-starter>
@@ -42,14 +86,19 @@ The following list is a curated list of front-end development resources.
 
 ### Framework
 * <http://foundation.zurb.com/>
+* <http://assemble.io/>
+* <http://customelements.io/>
 
 ### Styles
 * <http://sass-lang.com/>
+* <http://purecss.io/>
 * <http://www.sache.in/>
 * <http://www.pattern-lab.info/>
 * <http://www.justinaguilar.com/animations/index.html>
 * <http://www.createcss3.com/>
 * <http://usablica.github.io/front-end-frameworks/compare.html?v=2.0>
+* <http://yostudios.github.io/Spritemapper/>
+* <https://github.com/addyosmani/grunt-uncss>
 
 ### JavaScript
 * <http://www.unheap.com/>
@@ -60,6 +109,13 @@ The following list is a curated list of front-end development resources.
 * <http://parsleyjs.org/>
 * <http://dfcb.github.io/BigVideo.js/>
 * <http://regex101.com/>
+* <http://shichuan.github.io/javascript-patterns/>
+* <http://bonsaiden.github.io/JavaScript-Garden/>
+* <http://momentjs.com/>
+* <https://github.com/Robdel12/DropKick>
+* <http://todomvc.com/>
+* <http://backplug.io/>
+* <http://daux.io/>
 
 ### SEO
 * <http://www.impressivewebs.com/seo-for-web-apps/>
@@ -68,6 +124,7 @@ The following list is a curated list of front-end development resources.
 * <http://www.browserstack.com/start>
 * <https://bugsnag.com/>
 * <http://webdevchecklist.com/>
+* <http://backtick.io/>
 
 ### Reference
 * <http://explainshell.com/>
@@ -88,6 +145,7 @@ The following list is a curated list of front-end development resources.
 * <http://learn.shayhowe.com/advanced-html-css/>
 * <http://www.teaching-materials.org/>
 * <https://github.com/tooling/book-of-modern-frontend-tooling>
+* <http://www.bentobox.io/>
 
 ## More Comprehensive Lists
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
