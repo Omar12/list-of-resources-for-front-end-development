@@ -1,18 +1,16 @@
 # List of Resources for Front-End Development
 
-The following list is a curated list of front-end development resources.
+The following list is a curated list of front-end development resources. It's purpose is to provide a specified list of resources and avoiding "rabbit holes".x
 
-#### To-Do
-* Add more links
-* Determine better organization
-* Give links context
-* **Categories**
+### Table Of Contents
 * Workspace
   * Command Line Interface (CLI) - Include one liners
   * Apps
-* Teamwork
+* Team Coordination
 * Workflow
 * Design
+  * Stock Images
+  * Fonts
 * Prototype
 * Planning & Documentation
 * Development
@@ -38,25 +36,20 @@ The following list is a curated list of front-end development resources.
   * Cross Browser
   * Performance
 * Keeping Up To Date
+  * Listings
+  * Blogs  
   * Newsletters
   * Further Education
 * Other Comprehensive Lists
 
 
-## Planning
-* <http://addyosmani.com/resources/toolschart/chart.pdf>
-
-## Teamwork
-* <https://github.com>
-* <https://redpen.io/>
-* <https://gitter.im/>
-* <https://www.meldium.com/>
 
 ## Workspace
 ### CLI
 * [**git**](http://git-scm.com/)
 * [git Cheat Sheet](http://scotch.io/bar-talk/git-cheat-sheet)
 * [Node.js](http://nodejs.org/) - Install it via [NVM](https://github.com/creationix/nvm)
+* * <http://explainshell.com/>
 * [Yeoman](http://yeoman.io/index.html) - Yeoman is an open source project which defines an opinionated stack for web application development.
   * Installation: `npm install -g yo`
 * [Bower](http://bower.io/) - Bower is a package manager for the web.
@@ -70,12 +63,22 @@ The following list is a curated list of front-end development resources.
 
 
 ### Apps
+* Browsers
+  * [Chrome](https://www.google.com/intl/en/chrome/browser/) - Runs on the [Blink](http://www.chromium.org/blink) rendering engine (branch from Webkit)
+  * [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) - Nightly builds of Chrome. Good to test bleeding edge features.
+  * [Other Chromium Nightly Channels](http://www.chromium.org/getting-involved/dev-channel) - Use at your own risk.
+  * Safari - Included on Mac OS X
+  * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
+  * [Opera](http://www.opera.com/)
+  * [Internet Explorer](http://www.modern.ie/en-us) - VM's that include various versions of Internet Explorer.
 * Sublime Text
   * Install [Package Manager](https://sublime.wbond.net/)
     * Recommended Packages
       * Emmet
       * Sidebar Enhancements
   * Recommended Theme: [Spacegray](http://kkga.github.io/spacegray/)
+* Alfred
+  * Recommended Workflows
 * Sketch
 * MAMP
 * nvALT
@@ -83,89 +86,131 @@ The following list is a curated list of front-end development resources.
 * Codekit
 * Codebox
 * Transmit
+* ImageOptim
 * [Visual Enhancements for better coding](http://webdesign.tutsplus.com/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052)
 * <https://github.com/tooling/book-of-modern-frontend-tooling>
 * Recommended plugins
 * <https://speakerdeck.com/addyosmani/automating-front-end-workflow>
 
+## Team Coordination
+* <https://github.com>
+* <https://redpen.io/>
+* <https://gitter.im/>
+* <https://www.meldium.com/>
+
+## Workflow
+* <https://github.com/addyosmani/grunt-uncss>
+
 ## Design
 * <http://flatuicolors.com/>
 * <http://subtlepatterns.com/>
-* <http://fontello.com/>
 * <http://meettheipsums.com/>
+
+### Fonts
+* <http://fontello.com/>
+* <http://typekit.com>
+
+### Stock Images
 * <http://www.gratisography.com/>
 
-## Prototype
-* <https://github.com/sahat/hackathon-starter>
+## Planning & Documentation
 
-## Build
-### Planning
+## Development
+### Reference
+* <http://addyosmani.com/resources/toolschart/chart.pdf>
 * <http://caniuse.com/>
+* <http://dochub.io/>
+* <http://www.webplatform.org/>
+* <http://html5index.org/>
+* <http://www.adamkaplan.me/grid/>
 
-### Framework
+### Best Practices
+* <http://www.impressivewebs.com/seo-for-web-apps/>
+
+### Frameworks
 * <http://foundation.zurb.com/>
 * <http://assemble.io/>
 * <http://customelements.io/>
+* <https://github.com/sahat/hackathon-starter>
+
+### HTML
 
 ### Styles
-* <http://sass-lang.com/>
 * <http://purecss.io/>
-* <http://www.sache.in/>
+* <http://sass-lang.com/>
+* [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * <http://www.pattern-lab.info/>
 * <http://www.justinaguilar.com/animations/index.html>
 * <http://www.createcss3.com/>
 * <http://usablica.github.io/front-end-frameworks/compare.html?v=2.0>
 * <http://yostudios.github.io/Spritemapper/>
-* <https://github.com/addyosmani/grunt-uncss>
 
 ### JavaScript
-* <http://www.unheap.com/>
+#### Reference
 * <http://superherojs.com/>
 * <http://youmightnotneedjquery.com/>
+* <http://shichuan.github.io/javascript-patterns/>
+* <http://bonsaiden.github.io/JavaScript-Garden/>
 * <https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills>
+
+#### Libraries
+* [Backbone.js](http://backbonejs.org)
+  * Install: `bower install backbone -S`
+  * [Backplug](http://backplug.io/) - Discover Backbone Plugins
+
+#### Utilities
+* [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
 * <http://instantclick.io/>
 * <http://parsleyjs.org/>
 * <http://dfcb.github.io/BigVideo.js/>
 * <http://regex101.com/>
-* <http://shichuan.github.io/javascript-patterns/>
-* <http://bonsaiden.github.io/JavaScript-Garden/>
+
 * <http://momentjs.com/>
 * <https://github.com/Robdel12/DropKick>
 * <http://todomvc.com/>
-* <http://backplug.io/>
+* 
 * <http://daux.io/>
 
-### SEO
-* <http://www.impressivewebs.com/seo-for-web-apps/>
-
-### Testing
-* <http://www.browserstack.com/start>
-* <https://bugsnag.com/>
+## Testing
 * <http://webdevchecklist.com/>
-* <http://backtick.io/>
 
 ### Reference
-* <http://explainshell.com/>
-* <http://dochub.io/>
-* <http://www.webplatform.org/>
-* <http://html5index.org/>
+
+### Browser Dev Tools
+
+### Bookmarklets
+* <http://backtick.io/>
+
+### Cross Browser Testing
+* <http://www.browserstack.com/start>
+* <https://bugsnag.com/>
+
+### Performance
+* [To add]
 
 ## Keeping Up To Date
-### Newsletters and Daily Listings
-* <http://webplatformdaily.org/>
-* <http://www.html5bookmarks.com/>
-* <https://news.layervault.com/>
-* <http://web-design-weekly.com/>
-* <http://www.echojs.com/>
-* <http://sidebar.io/>
+### Listings
+* [Web Platform Daily](http://webplatformdaily.org/)
+* [HTML5 Bookmarks](http://www.html5bookmarks.com/)
+* [Site Inspire](http://www.siteinspire.com/)
+* [EchoJS](http://www.echojs.com/) - JavaScript News
+* [LayerVault News](https://news.layervault.com/)
 
-### Continuous Education
+### Newsletters
+* <http://web-design-weekly.com/>
+* [Sidebar.io](http://sidebar.io/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+
+### Blogs
+* [CSS Tricks](http://css-tricks.com)
+
+### Further Education
+* <https://github.com/tooling/book-of-modern-frontend-tooling>
 * <http://learn.shayhowe.com/advanced-html-css/>
 * <http://www.teaching-materials.org/>
-* <https://github.com/tooling/book-of-modern-frontend-tooling>
 * <http://www.bentobox.io/>
 
-## More Comprehensive Lists
+## Other Comprehensive Lists
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
 * <https://github.com/codylindley/frontend-tools>
 * <https://github.com/bebraw/jswiki/wiki>
