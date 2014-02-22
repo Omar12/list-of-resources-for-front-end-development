@@ -91,7 +91,7 @@ The following CLI applications are almost essential for all systems. They will b
 * <https://www.meldium.com/>
 
 ## Workflow
-* [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point for various Front-End applications or sites.
+* [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point using different available libraries.
   * Installation: `npm install -g yo`
 * [Bower](http://bower.io/) - Bower is a package manager for the web.
   * Installation: `npm install -g bower`
