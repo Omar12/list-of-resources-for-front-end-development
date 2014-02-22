@@ -38,7 +38,7 @@ The following list is a curated list of front-end development resources. It's pu
   * Performance
 * Keeping Up To Date
   * Listings
-  * Blogs  
+  * Blogs
   * Newsletters
   * Further Education
 * Other Comprehensive Lists
@@ -50,14 +50,15 @@ The following list is a curated list of front-end development resources. It's pu
 The following CLI applications are almost essential for all systems. They will be used to run various tasks mentioned further on.
 
 * [**git**](http://git-scm.com/)
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [git cheat sheet](http://scotch.io/bar-talk/git-cheat-sheet)
 * [Node.js](http://nodejs.org/) - Install it via [NVM](https://github.com/creationix/nvm)
-* <http://explainshell.com/>
+* [Explain Shell](http://explainshell.com/) - Handy tool that explains command-line commands
 
 
 ### Apps
 * Browsers
-  * [Chrome](https://www.google.com/intl/en/chrome/browser/) - Runs on the [Blink](http://www.chromium.org/blink) rendering engine (branch from Webkit)
+  * [Chrome](https://www.google.com/intl/en/chrome/browser/) - Runs on the [Blink](http://www.chromium.org/blink) rendering engine (branch from Webkit).
   * [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) - Nightly builds of Chrome. Good to test bleeding edge features.
   * [Other Chromium Nightly Channels](http://www.chromium.org/getting-involved/dev-channel) - Use at your own risk.
   * Safari - Included on Mac OS X
@@ -78,17 +79,18 @@ The following CLI applications are almost essential for all systems. They will b
 * [Alfred](http://www.alfredapp.com/)
   * [Recommended Workflows](https://github.com/zenorocha/alfred-workflows)
 * [nvALT](http://brettterpstra.com/projects/nvalt/) - App to take notes fast and efficient.
-* [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial)
-* [Transmit](https://panic.com/transmit/) - File Transfer app
-* [Pixelmator](http://www.pixelmator.com/) - Image editor
-* [Sketch](http://www.bohemiancoding.com/sketch/) - Vector Graphics
+* [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial).
+* [Transmit](https://panic.com/transmit/) - File Transfer app.
+* [Pixelmator](http://www.pixelmator.com/) - Image editor.
+* [Sketch](http://www.bohemiancoding.com/sketch/) - Vector Graphics.
 * [ImageOptim](http://imageoptim.com/) - Desktop app to optimize images.
 
 ## Team Coordination
-* <https://github.com>
-* <https://redpen.io/>
-* <https://gitter.im/>
-* <https://www.meldium.com/>
+* [Basecamp](https://basecamp.com/) - Project management.
+* [Github](https://github.com) - Code hosting.
+* [RedPen](https://redpen.io/) - Review designs with your team.
+* [Gitter](https://gitter.im/) - Group chat.
+* [Meldium](https://www.meldium.com/) - Team Password manager.
 
 ## Workflow
 * [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point using different available libraries.
@@ -100,20 +102,17 @@ The following CLI applications are almost essential for all systems. They will b
   * Installation: `npm install -g grunt-cli`
 * [Gulp](http://gulpjs.com/) - Another Task Runner. API is minimal but functional, it's more straight-forward than Grunt but less plugins available. The community is steadily growing.
   * [Gulp Plugins](http://gulpjs.com/plugins/)
+  * [Gulp Starter](https://github.com/3bola/gulp-starter)
 * <http://anti-code.com/devtools-cheatsheet/>
 * <https://speakerdeck.com/addyosmani/automating-front-end-workflow>
 * <https://github.com/tooling/book-of-modern-frontend-tooling>
 
-### Grunt Tasks
-* [Grunt Uncss](https://github.com/addyosmani/grunt-uncss) - A grunt task for removing unused CSS from your projects.
-
-
-
 ## Design
-* <http://flatuicolors.com/>
-* <http://subtlepatterns.com/>
-* <http://meettheipsums.com/>
-* <http://rocket-design.fr/color-template/>
+* [Flat UI Colors](http://flatuicolors.com/) - A palette of colors commonly used in Flat UI design.
+* [Subtle Patterns](http://subtlepatterns.com/) - Background patterns for your website.
+* [Meet the Ipsums](http://meettheipsums.com/) - Many flavors of the Lorem Ipsum text filler.
+* [Color Template](http://rocket-design.fr/color-template/) - Guide into using colors on your design.
+* [Photoshop Etiquette](http://photoshopetiquette.com/) - A Guide to Discernible Web Design in Photoshop.
 
 ### Fonts
 * <http://fontello.com/>
@@ -162,11 +161,11 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### JavaScript
 #### Reference
-* <http://superherojs.com/>
-* <http://youmightnotneedjquery.com/>
-* <http://shichuan.github.io/javascript-patterns/>
-* <http://bonsaiden.github.io/JavaScript-Garden/>
-* <https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills>
+* [Superhero JS](http://superherojs.com/) - Quality articles related to JavaScript.
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 
 #### Libraries
 * [Backbone.js](http://backbonejs.org)
@@ -191,7 +190,9 @@ The following CLI applications are almost essential for all systems. They will b
 ### Browser Dev Tools
 
 ### Bookmarklets
-* <http://backtick.io/>
+* [Backtick](http://backtick.io/) - Console for bookmarklets and scripts. (Chrome only)
+* [Webfonter](http://webfonter.fontshop.com/) - Find the fonts being used on a page and it lists similar fonts.
+* [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 
 ### Cross Browser Testing
 * <http://www.browserstack.com/start>
@@ -218,10 +219,10 @@ The following CLI applications are almost essential for all systems. They will b
 * [CSS Tricks](http://css-tricks.com)
 
 ### Further Education
-* <https://github.com/tooling/book-of-modern-frontend-tooling>
-* <http://learn.shayhowe.com/advanced-html-css/>
-* <http://www.teaching-materials.org/>
-* <http://www.bentobox.io/>
+* [Book of Front-End Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
+* [An Advance Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [Teaching Materials](http://www.teaching-materials.org/) - This site hosts a variety of CC-licensed web development curriculum
+* [BentoBox](http://www.bentobox.io/)
 
 ## Other Comprehensive Lists
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
