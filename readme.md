@@ -1,4 +1,6 @@
 # List of Resources for Front-End Development
+The following list is a curated list of front-end development resources.
+It's purpose is to provide a specified list of resources and avoiding "rabbit holes".
 
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
@@ -35,8 +37,6 @@
 		- [Blogs](#blogs)
 		- [Further Education](#further-education)
 	- [Other Comprehensive Lists](#other-comprehensive-lists)
-
-The following list is a curated list of front-end development resources. It's purpose is to provide a specified list of resources and avoiding "rabbit holes".
 
 ## Workspace
 ### CLI
