@@ -1,49 +1,42 @@
 # List of Resources for Front-End Development
 
-The following list is a curated list of front-end development resources. It's purpose is to provide a specified list of resources and avoiding "rabbit holes".x
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-### Table Of Contents
-* Workspace
-  * Command Line Interface (CLI) - Include one liners
-  * Apps
-* Team Coordination
-* Workflow
-* Design
-  * Stock Images
-  * Fonts
-* Prototype
-* Planning & Documentation
-* Development
-  * Reference
-    * Responsive Web Design
-  * Best Practices
-    * Beginning Period
-    * During
-    * Ending Period
-  * Frameworks
-  * HTML
-  * Styles
-    * CSS
-    * SASS
-  * JavaScript
-    * Reference
-    * Frameworks
-    * Components
-    * Libraries
-* Testing
-  * Reference
-  * Dev Tools
-  * Bookmarklets
-  * Cross Browser
-  * Performance
-* Keeping Up To Date
-  * Listings
-  * Blogs
-  * Newsletters
-  * Further Education
-* Other Comprehensive Lists
+- [List of Resources for Front-End Development](#list-of-resources-for-front-end-development)
+	- [Workspace](#workspace)
+		- [CLI](#cli)
+		- [Apps](#apps)
+	- [Team Coordination](#team-coordination)
+	- [Workflow](#workflow)
+	- [Design](#design)
+		- [Fonts](#fonts)
+		- [Stock Images](#stock-images)
+	- [Planning & Documentation](#planning-&-documentation)
+	- [Development](#development)
+		- [Reference](#reference)
+			- [Responsive Web Design](#responsive-web-design)
+		- [Best Practices](#best-practices)
+		- [Frameworks](#frameworks)
+		- [HTML](#html)
+		- [Styles](#styles)
+		- [JavaScript](#javascript)
+			- [Reference](#reference-1)
+			- [Libraries](#libraries)
+			- [Utilities](#utilities)
+	- [Testing](#testing)
+		- [Reference](#reference-2)
+		- [Browser Dev Tools](#browser-dev-tools)
+		- [Bookmarklets](#bookmarklets)
+		- [Cross Browser Testing](#cross-browser-testing)
+		- [Performance](#performance)
+	- [Keeping Up To Date](#keeping-up-to-date)
+		- [Listings](#listings)
+		- [Newsletters](#newsletters)
+		- [Blogs](#blogs)
+		- [Further Education](#further-education)
+	- [Other Comprehensive Lists](#other-comprehensive-lists)
 
-
+The following list is a curated list of front-end development resources. It's purpose is to provide a specified list of resources and avoiding "rabbit holes".
 
 ## Workspace
 ### CLI
