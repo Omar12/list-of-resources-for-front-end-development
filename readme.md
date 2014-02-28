@@ -1,6 +1,6 @@
 # List of Resources for Front-End Development
 The following list is a curated list of front-end development resources.
-It's purpose is to provide a specified list of resources and avoiding "rabbit holes".
+It's purpose is to provide a specified list of resources for quick finding.
 
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
@@ -18,8 +18,11 @@ It's purpose is to provide a specified list of resources and avoiding "rabbit ho
 		- [Reference](#reference)
 			- [Responsive Web Design](#responsive-web-design)
 		- [Best Practices](#best-practices)
-		- [Frameworks](#frameworks)
+		- [Front-End Frameworks](#front-end-frameworks)
 		- [HTML](#html)
+			- [Project Reference](#project-reference)
+				- [Pattern Libraries](#pattern-libraries)
+				- [Documentation](#documentation)
 		- [Styles](#styles)
 		- [JavaScript](#javascript)
 			- [Reference](#reference-1)
@@ -123,7 +126,6 @@ The following CLI applications are almost essential for all systems. They will b
 * [WebPlatform](http://www.webplatform.org/)
 * [The HTML 5 JavaScript API Index](http://html5index.org/)
 * <http://www.adamkaplan.me/grid/>
-* <http://daux.io/>
 * <http://addyosmani.com/resources/toolschart/chart.pdf>
 
 #### Responsive Web Design
@@ -142,8 +144,12 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### HTML
 
-#### Pattern Libraries
-* <http://www.pattern-lab.info/>
+#### Project Reference
+##### Pattern Libraries
+* [Pattern Lab](http://www.pattern-lab.info/) - Script to generate atomic design patterns
+
+##### Documentation
+* [Daux](http://daux.io/)
 
 ### Styles
 * [Pure CSS](http://purecss.io/)
