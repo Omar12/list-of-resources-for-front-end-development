@@ -108,32 +108,32 @@ The following CLI applications are almost essential for all systems. They will b
 * [Photoshop Etiquette](http://photoshopetiquette.com/) - A Guide to Discernible Web Design in Photoshop.
 
 ### Fonts
-* <http://fontello.com/>
-* <http://typekit.com>
+* [Fontello](http://fontello.com/)
+* [TypeKit](http://typekit.com)
 
 ### Stock Images
-* <http://www.gratisography.com/>
+* [Gratisography](http://www.gratisography.com/)
 
 ## Planning & Documentation
 
 ## Development
 ### Reference
-* <http://addyosmani.com/resources/toolschart/chart.pdf>
-* <http://caniuse.com/>
-* <http://dochub.io/>
-* <http://www.webplatform.org/>
-* <http://html5index.org/>
+* [Can I Use?](http://caniuse.com/)
+* [dochub](http://dochub.io/) - Online documentation for HTML, CSS, JavaScript.
+* [WebPlatform](http://www.webplatform.org/)
+* [The HTML 5 JavaScript API Index](http://html5index.org/)
 * <http://www.adamkaplan.me/grid/>
 * <http://daux.io/>
+* <http://addyosmani.com/resources/toolschart/chart.pdf>
 
 #### Responsive Web Design
-* <https://ux.mailchimp.com/patterns/>
 * <http://bradfrost.github.io/this-is-responsive/index.html>
+* <https://ux.mailchimp.com/patterns/>
 
 ### Best Practices
 * <http://www.impressivewebs.com/seo-for-web-apps/>
 
-### Frameworks
+### Front-End Frameworks
 * [Foundation](http://foundation.zurb.com)
 * [Bootstrap](http://getbootstrap.com/)
 * <http://assemble.io/>
@@ -142,11 +142,13 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### HTML
 
+#### Pattern Libraries
+* <http://www.pattern-lab.info/>
+
 ### Styles
-* <http://purecss.io/>
+* [Pure CSS](http://purecss.io/)
 * <http://sass-lang.com/>
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
-* <http://www.pattern-lab.info/>
 * <http://www.justinaguilar.com/animations/index.html>
 * <http://www.createcss3.com/>
 * <http://usablica.github.io/front-end-frameworks/compare.html?v=2.0>
@@ -221,3 +223,4 @@ The following CLI applications are almost essential for all systems. They will b
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
 * <https://github.com/codylindley/frontend-tools>
 * <https://github.com/bebraw/jswiki/wiki>
+
