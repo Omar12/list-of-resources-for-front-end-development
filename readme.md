@@ -121,12 +121,11 @@ The following CLI applications are almost essential for all systems. They will b
 
 ## Development
 ### Reference
+* [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [Can I Use?](http://caniuse.com/)
 * [dochub](http://dochub.io/) - Online documentation for HTML, CSS, JavaScript.
 * [WebPlatform](http://www.webplatform.org/)
 * [The HTML 5 JavaScript API Index](http://html5index.org/)
-* <http://www.adamkaplan.me/grid/>
-* <http://addyosmani.com/resources/toolschart/chart.pdf>
 
 #### Responsive Web Design
 * <http://bradfrost.github.io/this-is-responsive/index.html>
@@ -153,12 +152,15 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### Styles
 * [Pure CSS](http://purecss.io/)
+* <http://www.adamkaplan.me/grid/>
 * <http://sass-lang.com/>
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * <http://www.justinaguilar.com/animations/index.html>
 * <http://www.createcss3.com/>
 * <http://usablica.github.io/front-end-frameworks/compare.html?v=2.0>
 * <http://yostudios.github.io/Spritemapper/>
+#### Transitions and Animations
+####
 
 ### JavaScript
 #### Reference
@@ -167,6 +169,7 @@ The following CLI applications are almost essential for all systems. They will b
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
+* <http://addyosmani.com/resources/toolschart/chart.pdf>
 
 #### Libraries
 * [Backbone.js](http://backbonejs.org)
@@ -176,12 +179,16 @@ The following CLI applications are almost essential for all systems. They will b
 
 #### Utilities
 * [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
-* <http://instantclick.io/>
+* [InstantClick](http://instantclick.io/) - JavaScript library that dramatically speeds up your website, making navigation effectively instant in most cases.
 * <http://parsleyjs.org/>
 * <http://dfcb.github.io/BigVideo.js/>
 * <http://regex101.com/>
 * <http://momentjs.com/>
 * <https://github.com/Robdel12/DropKick>
+* [Velocity](http://julian.com/research/velocity/) - Velocity is a jQuery plugin that re-implements $.animate() to produce significantly greater performance
+
+#### Web Components
+* [WebComponents](http://webcomponents.org/)
 
 ## Testing
 * <http://webdevchecklist.com/>
