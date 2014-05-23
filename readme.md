@@ -78,7 +78,7 @@ The following CLI applications are almost essential for all systems. They will b
 * [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial).
 * [Transmit](https://panic.com/transmit/) - File Transfer app.
 * [Pixelmator](http://www.pixelmator.com/) - Image editor.
-* [Sketch](http://www.bohemiancoding.com/sketch/) - Vector Graphics.
+* [Sketch](http://www.bohemiancoding.com/sketch/) - Vector Graphics app.
 * [ImageOptim](http://imageoptim.com/) - Desktop app to optimize images.
 
 ## Team Coordination
@@ -87,8 +87,9 @@ The following CLI applications are almost essential for all systems. They will b
 * [RedPen](https://redpen.io/) - Review designs with your team.
 * [Gitter](https://gitter.im/) - Group chat.
 * [Meldium](https://www.meldium.com/) - Team Password manager.
+* [Trello](https://trello.com/) - Virtual white board. Organize anything with your team.
 
-## Workflow
+## Workspace
 * [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point using different available libraries.
   * Installation: `npm install -g yo`
 * [Bower](http://bower.io/) - Bower is a package manager for the web.
@@ -133,6 +134,7 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### Best Practices
 * <http://www.impressivewebs.com/seo-for-web-apps/>
+* <http://mdo.github.io/code-guide/>
 
 ### Front-End Frameworks
 * [Foundation](http://foundation.zurb.com)
@@ -169,13 +171,14 @@ The following CLI applications are almost essential for all systems. They will b
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
-* <http://addyosmani.com/resources/toolschart/chart.pdf>
+* <http://addyosmani.com/resources/toolschart/chart.pdf> - Chart for deciding the architecture of your app.
 
 #### Libraries
 * [Backbone.js](http://backbonejs.org)
   * Install: `bower install backbone -S`
   * [Backplug](http://backplug.io/) - Discover Backbone Plugins
 * [ToDoMVC](http://todomvc.com/) - Explore the various MV-* libraries available.
+* [React](facebook.github.io/react/) - JavaScript Library for building user interfaces.
 
 #### Utilities
 * [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
@@ -222,9 +225,14 @@ The following CLI applications are almost essential for all systems. They will b
 * [Web Design Weekly](http://web-design-weekly.com/)
 * [Sidebar.io](http://sidebar.io/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
+* [HTML5 Weekly](http://html5weekly.com/)
+* [Web Tools Weekly](http://webtoolsweekly.com/)
 
 ### Blogs
 * [CSS Tricks](http://css-tricks.com)
+* [A List Apart](http://alistapart.com)
+* [Smashing Magazine](http://smashingmagazine.com)
+* [Codrops](http://tympanus.net/codrops/)
 
 ### Further Education
 * [Book of Front-End Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
@@ -233,6 +241,7 @@ The following CLI applications are almost essential for all systems. They will b
 * [BentoBox](http://www.bentobox.io/)
 
 ## Other Comprehensive Lists
+* <http://oozled.com/>
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
 * <https://github.com/codylindley/frontend-tools>
 * <https://github.com/bebraw/jswiki/wiki>
