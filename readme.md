@@ -92,21 +92,6 @@ The following CLI applications are almost essential for all systems. They will b
 * [Meldium](https://www.meldium.com/) - Team Password manager.
 * [Trello](https://trello.com/) - Virtual white board. Organize anything with your team.
 
-## Workspace
-* [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point using different available libraries.
-  * Installation: `npm install -g yo`
-* [Bower](http://bower.io/) - Bower is a package manager for the web.
-  * Installation: `npm install -g bower`
-  * [Bower Component Search](http://bower.io/search/)
-* [Grunt](http://gruntjs.com/) - Grunt is a Task Runner. You can run various scripts onto your project folder and performs tasks like compile sass files, minify js or save files to a build folder.
-  * Installation: `npm install -g grunt-cli`
-* [Gulp](http://gulpjs.com/) - Another Task Runner. API is minimal but functional, it's more straight-forward than Grunt but less plugins available. The community is steadily growing.
-  * [Gulp Plugins](http://gulpjs.com/plugins/)
-  * [Gulp Starter](https://github.com/3bola/gulp-starter)
-* <http://anti-code.com/devtools-cheatsheet/>
-* <https://speakerdeck.com/addyosmani/automating-front-end-workflow>
-* <https://github.com/tooling/book-of-modern-frontend-tooling>
-
 ## Design
 * [Flat UI Colors](http://flatuicolors.com/) - A palette of colors commonly used in Flat UI design.
 * [Subtle Patterns](http://subtlepatterns.com/) - Background patterns for your website.
@@ -121,6 +106,20 @@ The following CLI applications are almost essential for all systems. They will b
 ### Stock Images
 * [Gratisography](http://www.gratisography.com/)
 
+## Workspace
+* [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point using different available libraries.
+  * Installation: `npm install -g yo`
+* [Bower](http://bower.io/) - Bower is a package manager for the web.
+  * Installation: `npm install -g bower`
+  * [Bower Component Search](http://bower.io/search/)
+* [Grunt](http://gruntjs.com/) - Grunt is a Task Runner. You can run various scripts onto your project folder and performs tasks like compile sass files, minify js or save files to a build folder.
+  * Installation: `npm install -g grunt-cli`
+* [Gulp](http://gulpjs.com/) - Another Task Runner. API is minimal but functional, it's more straight-forward than Grunt but less plugins available. The community is steadily growing.
+  * [Gulp Plugins](http://gulpjs.com/plugins/)
+  * [Gulp Starter](https://github.com/3bola/gulp-starter)
+* [Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
+* [Book of Front-End tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
+
 ## Planning & Documentation
 
 ## Development
@@ -130,20 +129,21 @@ The following CLI applications are almost essential for all systems. They will b
 * [dochub](http://dochub.io/) - Online documentation for HTML, CSS, JavaScript.
 * [WebPlatform](http://www.webplatform.org/)
 * [The HTML 5 JavaScript API Index](http://html5index.org/)
+* [simpl.info](http://www.simpl.info/) - Simplest possible examples of HTML, CSS and JavaScript.
 
 #### Responsive Web Design
-* <http://bradfrost.github.io/this-is-responsive/index.html>
-* <https://ux.mailchimp.com/patterns/>
+* [Brad Frost's This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html)
+* [Mailchimp UX Patterns](https://ux.mailchimp.com/patterns/)
+* Tool: [pageres](https://github.com/sindresorhus/pageres) - Tool that automates screenshots on different resolutions.
 
 ### Best Practices
-* <http://www.impressivewebs.com/seo-for-web-apps/>
-* <http://mdo.github.io/code-guide/>
+* [@mdo Code Guideline](http://mdo.github.io/code-guide/)
+* [SEO for Web Apps](http://www.impressivewebs.com/seo-for-web-apps/)
 
 ### Front-End Frameworks
 * [Foundation](http://foundation.zurb.com)
 * [Bootstrap](http://getbootstrap.com/)
-* <http://assemble.io/>
-* <http://customelements.io/>
+* [Assemble.io](http://assemble.io/)
 * <https://github.com/sahat/hackathon-starter>
 
 ### HTML
@@ -157,7 +157,7 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### Styles
 * [Pure CSS](http://purecss.io/)
-* <http://www.adamkaplan.me/grid/>
+* [Grid](http://www.adamkaplan.me/grid/)
 * <http://sass-lang.com/>
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * <http://www.justinaguilar.com/animations/index.html>
@@ -184,17 +184,16 @@ The following CLI applications are almost essential for all systems. They will b
 * [React](facebook.github.io/react/) - JavaScript Library for building user interfaces.
 
 #### Utilities
-* [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
+* [fast.js](https://github.com/codemix/fast.js) - a collection of micro-optimizations that can help you write faster JavaScript code as it includes fast replacements for several built-in native methods.
 * [InstantClick](http://instantclick.io/) - JavaScript library that dramatically speeds up your website, making navigation effectively instant in most cases.
-* <http://parsleyjs.org/>
-* <http://dfcb.github.io/BigVideo.js/>
 * <http://regex101.com/>
 * <http://momentjs.com/>
-* <https://github.com/Robdel12/DropKick>
 * [Velocity](http://julian.com/research/velocity/) - Velocity is a jQuery plugin that re-implements $.animate() to produce significantly greater performance
+* [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
 
 #### Web Components
 * [WebComponents](http://webcomponents.org/)
+* [Custom Elements](http://customelements.io/)
 
 ## Testing
 * <http://webdevchecklist.com/>
@@ -209,7 +208,7 @@ The following CLI applications are almost essential for all systems. They will b
 * [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 
 ### Cross Browser Testing
-* <http://www.browserstack.com/start>
+* [Browserstack](http://www.browserstack.com)
 * <https://bugsnag.com/>
 
 ### Performance
@@ -232,6 +231,8 @@ The following CLI applications are almost essential for all systems. They will b
 * [Web Tools Weekly](http://webtoolsweekly.com/)
 
 ### Blogs
+* [Front-End Feeds](https://github.com/impressivewebs/frontend-feeds) - An awesome collection of RSS feeds for front-end developers.
+* [Web Platform Daily](http://webplatformdaily.org/) - A must daily visit. Updated daily with the latest news on web technologies.
 * [CSS Tricks](http://css-tricks.com)
 * [A List Apart](http://alistapart.com)
 * [Smashing Magazine](http://smashingmagazine.com)
@@ -244,7 +245,7 @@ The following CLI applications are almost essential for all systems. They will b
 * [BentoBox](http://www.bentobox.io/)
 
 ## Other Comprehensive Lists
-* <http://oozled.com/>
+* [Oozled](http://oozled.com/) - One of my favorites and most complete lists.
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
 * <https://github.com/codylindley/frontend-tools>
 * <https://github.com/bebraw/jswiki/wiki>
