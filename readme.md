@@ -2,6 +2,8 @@
 The following list is a curated list of front-end development resources.
 It's purpose is to provide a specified list of resources for quick finding.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [List of Resources for Front-End Development](#list-of-resources-for-front-end-development)
@@ -9,10 +11,10 @@ It's purpose is to provide a specified list of resources for quick finding.
     - [CLI](#cli)
     - [Apps](#apps)
   - [Team Coordination](#team-coordination)
-  - [Workspace](#workspace-1)
   - [Design](#design)
     - [Fonts](#fonts)
     - [Stock Images](#stock-images)
+  - [Workspace](#workspace-1)
   - [Planning & Documentation](#planning-&-documentation)
   - [Development](#development)
     - [Reference](#reference)
@@ -24,25 +26,23 @@ It's purpose is to provide a specified list of resources for quick finding.
         - [Pattern Libraries](#pattern-libraries)
         - [Documentation](#documentation)
     - [Styles](#styles)
-      - [Transitions and Animations](#transitions-and-animations)
-    - [](#)
     - [JavaScript](#javascript)
       - [Reference](#reference-1)
       - [Libraries](#libraries)
       - [Utilities](#utilities)
       - [Web Components](#web-components)
-  - [Testing](#testing)
     - [Reference](#reference-2)
     - [Browser Dev Tools](#browser-dev-tools)
     - [Bookmarklets](#bookmarklets)
     - [Cross Browser Testing](#cross-browser-testing)
-    - [Performance](#performance)
   - [Keeping Up To Date](#keeping-up-to-date)
     - [Listings](#listings)
     - [Newsletters](#newsletters)
     - [Blogs](#blogs)
     - [Further Education](#further-education)
   - [Other Comprehensive Lists](#other-comprehensive-lists)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Workspace
 ### CLI
@@ -77,12 +77,12 @@ The following CLI applications are almost essential for all systems. They will b
   * Recommended Theme: [Spacegray](http://kkga.github.io/spacegray/)
 * [Alfred](http://www.alfredapp.com/)
   * [Recommended Workflows](https://github.com/zenorocha/alfred-workflows)
-* [nvALT](http://brettterpstra.com/projects/nvalt/) - App to take notes fast and efficient.
-* [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial).
 * [Transmit](https://panic.com/transmit/) - File Transfer app.
-* [Pixelmator](http://www.pixelmator.com/) - Image editor.
 * [Sketch](http://www.bohemiancoding.com/sketch/) - Vector Graphics app.
+* [Pixelmator](http://www.pixelmator.com/) - Image editor.
 * [ImageOptim](http://imageoptim.com/) - Desktop app to optimize images.
+* [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial).
+* [nvALT](http://brettterpstra.com/projects/nvalt/) - App to take notes fast and efficient.
 
 ## Team Coordination
 * [Basecamp](https://basecamp.com/) - Project management.
@@ -144,13 +144,14 @@ The following CLI applications are almost essential for all systems. They will b
 * [Foundation](http://foundation.zurb.com)
 * [Bootstrap](http://getbootstrap.com/)
 * [Assemble.io](http://assemble.io/)
-* <https://github.com/sahat/hackathon-starter>
+* [HTML5 Boilerplate](http://html5boilerplate.com)
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 
 ### HTML
 
 #### Project Reference
 ##### Pattern Libraries
-* [Pattern Lab](http://www.pattern-lab.info/) - Script to generate atomic design patterns
+* [Pattern Lab](http://www.pattern-lab.info/) - Generate atomic design patterns
 
 ##### Documentation
 * [Daux](http://daux.io/)
@@ -158,14 +159,12 @@ The following CLI applications are almost essential for all systems. They will b
 ### Styles
 * [Pure CSS](http://purecss.io/)
 * [Grid](http://www.adamkaplan.me/grid/)
-* <http://sass-lang.com/>
+* [Sass](http://sass-lang.com/) - Sass language reference
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * <http://www.justinaguilar.com/animations/index.html>
 * <http://www.createcss3.com/>
 * <http://usablica.github.io/front-end-frameworks/compare.html?v=2.0>
 * <http://yostudios.github.io/Spritemapper/>
-#### Transitions and Animations
-####
 
 ### JavaScript
 #### Reference
@@ -174,7 +173,6 @@ The following CLI applications are almost essential for all systems. They will b
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
-* <http://addyosmani.com/resources/toolschart/chart.pdf> - Chart for deciding the architecture of your app.
 
 #### Libraries
 * [Backbone.js](http://backbonejs.org)
@@ -185,18 +183,16 @@ The following CLI applications are almost essential for all systems. They will b
 
 #### Utilities
 * [fast.js](https://github.com/codemix/fast.js) - a collection of micro-optimizations that can help you write faster JavaScript code as it includes fast replacements for several built-in native methods.
-* [InstantClick](http://instantclick.io/) - JavaScript library that dramatically speeds up your website, making navigation effectively instant in most cases.
-* <http://regex101.com/>
-* <http://momentjs.com/>
 * [Velocity](http://julian.com/research/velocity/) - Velocity is a jQuery plugin that re-implements $.animate() to produce significantly greater performance
+* [InstantClick](http://instantclick.io/) - JavaScript library that dramatically speeds up your website, making navigation effectively instant in most cases.
+* [Regex 101](http://regex101.com/)
+* [Moment.js](http://momentjs.com/)
 * [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
+* [Web Dev Checklist](http://webdevchecklist.com/)
 
 #### Web Components
 * [WebComponents](http://webcomponents.org/)
 * [Custom Elements](http://customelements.io/)
-
-## Testing
-* <http://webdevchecklist.com/>
 
 ### Reference
 
@@ -209,10 +205,7 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### Cross Browser Testing
 * [Browserstack](http://www.browserstack.com)
-* <https://bugsnag.com/>
-
-### Performance
-* [To add]
+* [Bugsnag](https://bugsnag.com/)
 
 ## Keeping Up To Date
 ### Listings
