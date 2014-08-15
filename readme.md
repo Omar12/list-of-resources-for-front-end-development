@@ -57,7 +57,7 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### Apps
 * Browsers
-  * [Chrome](https://www.google.com/intl/en/chrome/browser/) - Runs on the [Blink](http://www.chromium.org/blink) rendering engine (branch from Webkit).
+  * [Chrome](https://www.google.com/intl/en/chrome/browser/)
   * [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) - Nightly builds of Chrome. Good to test bleeding edge features.
   * [Other Chromium Nightly Channels](http://www.chromium.org/getting-involved/dev-channel) - Use at your own risk.
   * Safari - Included on Mac OS X
@@ -75,8 +75,12 @@ The following CLI applications are almost essential for all systems. They will b
       * SublimeLinter - SublimeLinter highlights lines of code the linter deems to contain (potential) errors.
       * SCSS - Bring SCSS file support to Sublime Text.
   * Recommended Theme: [Spacegray](http://kkga.github.io/spacegray/)
+* [Github's Atom](https://atom.io/)
+  * Recommended Packages
+    * Emmet
 * [Alfred](http://www.alfredapp.com/)
   * [Recommended Workflows](https://github.com/zenorocha/alfred-workflows)
+* [Dash](http://kapeli.com/dash) - Search multiple programming documentation offline and online.
 * [Transmit](https://panic.com/transmit/) - File Transfer app.
 * [Sketch](http://www.bohemiancoding.com/sketch/) - Vector Graphics app.
 * [Pixelmator](http://www.pixelmator.com/) - Image editor.
@@ -85,8 +89,8 @@ The following CLI applications are almost essential for all systems. They will b
 * [nvALT](http://brettterpstra.com/projects/nvalt/) - App to take notes fast and efficient.
 
 ## Team Coordination
-* [Basecamp](https://basecamp.com/) - Project management.
-* [Github](https://github.com) - Code hosting.
+* [Basecamp](https://basecamp.com/) - Project management. ($)
+* [Github](https://github.com) - Code hosting. ($, Free)
 * [RedPen](https://redpen.io/) - Review designs with your team.
 * [Gitter](https://gitter.im/) - Group chat.
 * [Meldium](https://www.meldium.com/) - Team Password manager.
@@ -100,13 +104,15 @@ The following CLI applications are almost essential for all systems. They will b
 * [Photoshop Etiquette](http://photoshopetiquette.com/) - A Guide to Discernible Web Design in Photoshop.
 
 ### Fonts
-* [Fontello](http://fontello.com/)
-* [TypeKit](http://typekit.com)
+* [Fontello](http://fontello.com/) ($)
+* [TypeKit](http://typekit.com) ($)
+* [Fontdeck](http://fontdeck.com) ($)
 
 ### Stock Images
 * [Gratisography](http://www.gratisography.com/)
 
 ## Workspace
+* [NodeJS](http://nodejs.org) - Install Node on your machine. Most of the tools listed are installed using NPM (included with Node).
 * [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point using different available libraries.
   * Installation: `npm install -g yo`
 * [Bower](http://bower.io/) - Bower is a package manager for the web.
@@ -127,9 +133,9 @@ The following CLI applications are almost essential for all systems. They will b
 * [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [Can I Use?](http://caniuse.com/)
 * [dochub](http://dochub.io/) - Online documentation for HTML, CSS, JavaScript.
+* [simpl.info](http://www.simpl.info/) - Simplest possible examples of HTML, CSS and JavaScript.
 * [WebPlatform](http://www.webplatform.org/)
 * [The HTML 5 JavaScript API Index](http://html5index.org/)
-* [simpl.info](http://www.simpl.info/) - Simplest possible examples of HTML, CSS and JavaScript.
 
 #### Responsive Web Design
 * [Brad Frost's This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html)
@@ -139,6 +145,7 @@ The following CLI applications are almost essential for all systems. They will b
 ### Best Practices
 * [@mdo Code Guideline](http://mdo.github.io/code-guide/)
 * [SEO for Web Apps](http://www.impressivewebs.com/seo-for-web-apps/)
+* [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/) - Best practices for modern web development
 
 ### Front-End Frameworks
 * [Foundation](http://foundation.zurb.com)
@@ -147,14 +154,16 @@ The following CLI applications are almost essential for all systems. They will b
 * [HTML5 Boilerplate](http://html5boilerplate.com)
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 
-### HTML
+### Checklists and General Guidelines
+* [Web Dev Checklist](http://webdevchecklist.com/)
 
-#### Project Reference
-##### Pattern Libraries
+### Tools
+#### Documentation of Projects
+* [Daux](http://daux.io/)
+* [StyleDocco](http://jacobrask.github.io/styledocco/)
 * [Pattern Lab](http://www.pattern-lab.info/) - Generate atomic design patterns
 
-##### Documentation
-* [Daux](http://daux.io/)
+### HTML
 
 ### Styles
 * [Pure CSS](http://purecss.io/)
@@ -175,28 +184,35 @@ The following CLI applications are almost essential for all systems. They will b
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 
 #### Libraries
-* [Backbone.js](http://backbonejs.org)
-  * Install: `bower install backbone -S`
-  * [Backplug](http://backplug.io/) - Discover Backbone Plugins
 * [ToDoMVC](http://todomvc.com/) - Explore the various MV-* libraries available.
-* [React](facebook.github.io/react/) - JavaScript Library for building user interfaces.
+* [Angular.JS](http://angularjs.org)
+* [Backbone.js](http://backbonejs.org)
+  * [Backplug](http://backplug.io/) - Discover Backbone Plugins
+* [React](http://facebook.github.io/react/) - JavaScript Library for building user interfaces.
 
-#### Utilities
+#### Listings & Online Tools
+* [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
+* [JSDB.io](http://jsdb.io) - Source of JavaScript libraries, frameworks and plugins.
+* [Regex 101](http://regex101.com/)
+
+#### Tools and Libraries
 * [fast.js](https://github.com/codemix/fast.js) - a collection of micro-optimizations that can help you write faster JavaScript code as it includes fast replacements for several built-in native methods.
 * [Velocity](http://julian.com/research/velocity/) - Velocity is a jQuery plugin that re-implements $.animate() to produce significantly greater performance
 * [InstantClick](http://instantclick.io/) - JavaScript library that dramatically speeds up your website, making navigation effectively instant in most cases.
-* [Regex 101](http://regex101.com/)
 * [Moment.js](http://momentjs.com/)
-* [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
-* [Web Dev Checklist](http://webdevchecklist.com/)
 
 #### Web Components
 * [WebComponents](http://webcomponents.org/)
 * [Custom Elements](http://customelements.io/)
 
-### Reference
-
-### Browser Dev Tools
+### Browser Extensions
+* [Web Developer Tools](http://chrispederick.com/work/web-developer/)
+* [Backtick](https://chrome.google.com/webstore/detail/backtick/daiejhinmmfgincamkeeobmpffhdljim)
+* [FontFace Ninja](http://www.fontface.ninja/)
+* [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
+* [JunkFill](https://chrome.google.com/webstore/detail/junkfill/cajejbcjfkhgmfbapmhopccephhjedeb)
+* [Responsive Inspector](https://chrome.google.com/webstore/detail/responsive-inspector/memcdolmmnmnleeiodllgpibdjlkbpim)
+* [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
 
 ### Bookmarklets
 * [Backtick](http://backtick.io/) - Console for bookmarklets and scripts. (Chrome only)
@@ -232,7 +248,6 @@ The following CLI applications are almost essential for all systems. They will b
 * [Codrops](http://tympanus.net/codrops/)
 
 ### Further Education
-* [Book of Front-End Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 * [An Advance Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Teaching Materials](http://www.teaching-materials.org/) - This site hosts a variety of CC-licensed web development curriculum
 * [BentoBox](http://www.bentobox.io/)
@@ -242,4 +257,4 @@ The following CLI applications are almost essential for all systems. They will b
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
 * <https://github.com/codylindley/frontend-tools>
 * <https://github.com/bebraw/jswiki/wiki>
-
+* <https://github.com/cjbarber/ToolsOfTheTrade>
