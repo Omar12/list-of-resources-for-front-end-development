@@ -110,6 +110,7 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### Stock Images
 * [Gratisography](http://www.gratisography.com/)
+* [xstockvideo](http://www.xstockvideo.com/)
 
 ## Workspace
 * [NodeJS](http://nodejs.org) - Install Node on your machine. Most of the tools listed are installed using NPM (included with Node).
@@ -140,7 +141,6 @@ The following CLI applications are almost essential for all systems. They will b
 #### Responsive Web Design
 * [Brad Frost's This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html)
 * [Mailchimp UX Patterns](https://ux.mailchimp.com/patterns/)
-* Tool: [pageres](https://github.com/sindresorhus/pageres) - Tool that automates screenshots on different resolutions.
 
 ### Best Practices
 * [@mdo Code Guideline](http://mdo.github.io/code-guide/)
@@ -149,6 +149,7 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### Front-End Frameworks
 * [Foundation](http://foundation.zurb.com)
+* [Foundation for Apps](http://foundation.zurb.com/apps/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Assemble.io](http://assemble.io/)
 * [HTML5 Boilerplate](http://html5boilerplate.com)
@@ -168,12 +169,16 @@ The following CLI applications are almost essential for all systems. They will b
 ### Styles
 * [Pure CSS](http://purecss.io/)
 * [Grid](http://www.adamkaplan.me/grid/)
+* [Sass Guidelines](http://sass-guidelin.es/)
 * [Sass](http://sass-lang.com/) - Sass language reference
 * [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * <http://www.justinaguilar.com/animations/index.html>
 * <http://www.createcss3.com/>
 * <http://usablica.github.io/front-end-frameworks/compare.html?v=2.0>
 * <http://yostudios.github.io/Spritemapper/>
+
+### SVG
+* <http://alexk111.github.io/SVG-Morpheus/>
 
 ### JavaScript
 #### Reference
@@ -200,6 +205,7 @@ The following CLI applications are almost essential for all systems. They will b
 * [Velocity](http://julian.com/research/velocity/) - Velocity is a jQuery plugin that re-implements $.animate() to produce significantly greater performance
 * [InstantClick](http://instantclick.io/) - JavaScript library that dramatically speeds up your website, making navigation effectively instant in most cases.
 * [Moment.js](http://momentjs.com/)
+* [pageres](https://github.com/sindresorhus/pageres) - Screenshot automation.
 
 #### Web Components
 * [WebComponents](http://webcomponents.org/)
@@ -225,12 +231,18 @@ The following CLI applications are almost essential for all systems. They will b
 
 ## Keeping Up To Date
 ### Listings
+* [Panda App](https://usepanda.com/app/#/)
 * [Web Platform Daily](http://webplatformdaily.org/)
 * [HTML5 Bookmarks](http://www.html5bookmarks.com/)
 * [Site Inspire](http://www.siteinspire.com/)
 * [CodePen](http://codepen.io)
 * [EchoJS](http://www.echojs.com/) - JavaScript News
 * [LayerVault News](https://news.layervault.com/)
+
+### Podcasts
+* [Shop Talk Show](http://shoptalkshow.com/)
+* [JavaScript Jabber](http://devchat.tv/js-jabber/)
+* [Adventures in Angular](http://devchat.tv/adventures-in-angular)
 
 ### Newsletters
 * [Web Design Weekly](http://web-design-weekly.com/)
