@@ -26,6 +26,7 @@ It's purpose is to provide a specified list of resources for quick finding.
         - [Pattern Libraries](#pattern-libraries)
         - [Documentation](#documentation)
     - [Styles](#styles)
+    - [SVG](#svg)
     - [JavaScript](#javascript)
       - [Reference](#reference-1)
       - [Libraries](#libraries)
@@ -37,6 +38,7 @@ It's purpose is to provide a specified list of resources for quick finding.
     - [Cross Browser Testing](#cross-browser-testing)
   - [Keeping Up To Date](#keeping-up-to-date)
     - [Listings](#listings)
+    - [Podcasts](#podcasts)
     - [Newsletters](#newsletters)
     - [Blogs](#blogs)
     - [Further Education](#further-education)
@@ -89,10 +91,10 @@ The following CLI applications are almost essential for all systems. They will b
 * [nvALT](http://brettterpstra.com/projects/nvalt/) - App to take notes fast and efficient.
 
 ## Team Coordination
-* [Basecamp](https://basecamp.com/) - Project management. ($)
-* [Github](https://github.com) - Code hosting. ($, Free)
+* [Basecamp](https://basecamp.com/) - Project management. (:money_with_wings:)
+* [Github](https://github.com) - Code hosting. (:money_with_wings:, Free)
+* [Slack](https://slack.com/) - Group chat.
 * [RedPen](https://redpen.io/) - Review designs with your team.
-* [Gitter](https://gitter.im/) - Group chat.
 * [Meldium](https://www.meldium.com/) - Team Password manager.
 * [Trello](https://trello.com/) - Virtual white board. Organize anything with your team.
 
@@ -104,13 +106,14 @@ The following CLI applications are almost essential for all systems. They will b
 * [Photoshop Etiquette](http://photoshopetiquette.com/) - A Guide to Discernible Web Design in Photoshop.
 
 ### Fonts
-* [Fontello](http://fontello.com/) ($)
-* [TypeKit](http://typekit.com) ($)
-* [Fontdeck](http://fontdeck.com) ($)
+* [Fontello](http://fontello.com/) (:money_with_wings:)
+* [TypeKit](http://typekit.com) (:money_with_wings:)
+* [Fontdeck](http://fontdeck.com) (:money_with_wings:)
 
 ### Stock Images
 * [Gratisography](http://www.gratisography.com/)
 * [xstockvideo](http://www.xstockvideo.com/)
+* [Icono](http://saeedalipoor.github.io/icono/) - Pure CSS icons
 
 ## Workspace
 * [NodeJS](http://nodejs.org) - Install Node on your machine. Most of the tools listed are installed using NPM (included with Node).
@@ -178,7 +181,12 @@ The following CLI applications are almost essential for all systems. They will b
 * <http://yostudios.github.io/Spritemapper/>
 
 ### SVG
-* <http://alexk111.github.io/SVG-Morpheus/>
+* [Awesome SVG](https://github.com/willianjusten/awesome-svg)
+* [Snap SVG](http://snapsvg.io/)
+* [SVG Icons](http://svgicons.sparkk.fr/)
+* [SVG Morpheus](http://alexk111.github.io/SVG-Morpheus/)
+* [Walkway](https://github.com/ConnorAtherton/walkway)
+* [SVG Loaders](http://samherbert.net/svg-loaders/)
 
 ### JavaScript
 #### Reference
@@ -243,6 +251,8 @@ The following CLI applications are almost essential for all systems. They will b
 * [Shop Talk Show](http://shoptalkshow.com/)
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
 * [Adventures in Angular](http://devchat.tv/adventures-in-angular)
+* [The Web Ahead](http://5by5.tv/webahead)
+* [The Intellectual Radio Program](http://goodstuff.fm/tirp)
 
 ### Newsletters
 * [Web Design Weekly](http://web-design-weekly.com/)
