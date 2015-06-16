@@ -34,10 +34,12 @@ It's purpose is to provide a specified list of resources for quick finding.
       - [Libraries](#libraries)
       - [Utilities](#utilities)
       - [Web Components](#web-components)
+    - [Accessibility](#accessibility)
     - [Reference](#reference-2)
     - [Browser Dev Tools](#browser-dev-tools)
     - [Bookmarklets](#bookmarklets)
     - [Cross Browser Testing](#cross-browser-testing)
+    - [Deployment](#deployment)
   - [Keeping Up To Date](#keeping-up-to-date)
     - [Listings](#listings)
     - [Podcasts](#podcasts)
@@ -53,6 +55,7 @@ It's purpose is to provide a specified list of resources for quick finding.
 ### System
 The following CLI applications are almost essential for all systems. They will be used to run various tasks mentioned further on.
 
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Explain Shell](http://explainshell.com/) - Handy tool that explains command-line commands
 * [**git**](http://git-scm.com/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
@@ -208,9 +211,11 @@ The following CLI applications are almost essential for all systems. They will b
 #### Libraries
 * [ToDoMVC](http://todomvc.com/) - Explore the various MV-* libraries available.
 * [Angular.JS](http://angularjs.org)
+  * [Angular 2 Education](https://github.com/timjacobi/angular2-education)
 * [Backbone.js](http://backbonejs.org)
   * [Backplug](http://backplug.io/) - Discover Backbone Plugins
 * [React](http://facebook.github.io/react/) - JavaScript Library for building user interfaces.
+  * [awesome react](https://github.com/enaqx/awesome-react)
   * [Flux Architecture](https://github.com/facebook/flux)
 
 #### Listings & Online Tools
@@ -229,7 +234,7 @@ The following CLI applications are almost essential for all systems. They will b
 * [WebComponents](http://webcomponents.org/)
 * [Custom Elements](http://customelements.io/)
 
-### Accessibility (a11y)
+### Accessibility
 * [a11y project](http://a11yproject.com/)
 * [tota11y](http://khan.github.io/tota11y/)
 
@@ -250,6 +255,9 @@ The following CLI applications are almost essential for all systems. They will b
 ### Cross Browser Testing
 * [Browserstack](http://www.browserstack.com)
 * [Bugsnag](https://bugsnag.com/)
+
+### Deployment
+* [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. (Slack is deployed using Electron)
 
 ## Keeping Up To Date
 ### Listings
