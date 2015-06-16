@@ -9,13 +9,14 @@ It's purpose is to provide a specified list of resources for quick finding.
 - [List of Resources for Front-End Development](#list-of-resources-for-front-end-development)
   - [Workspace](#workspace)
     - [CLI](#cli)
-    - [Apps](#apps)
+    - [Browsers](#browsers)
+    - [Text Editors](#text-editors)
+    - [OS X Applications](#os-x-applications)
   - [Team Coordination](#team-coordination)
   - [Design](#design)
     - [Fonts](#fonts)
     - [Stock Images](#stock-images)
   - [Workspace](#workspace-1)
-  - [Planning & Documentation](#planning-&-documentation)
   - [Development](#development)
     - [Reference](#reference)
       - [Responsive Web Design](#responsive-web-design)
@@ -29,6 +30,7 @@ It's purpose is to provide a specified list of resources for quick finding.
     - [SVG](#svg)
     - [JavaScript](#javascript)
       - [Reference](#reference-1)
+      - [ES6](#es6)
       - [Libraries](#libraries)
       - [Utilities](#utilities)
       - [Web Components](#web-components)
@@ -42,23 +44,24 @@ It's purpose is to provide a specified list of resources for quick finding.
     - [Newsletters](#newsletters)
     - [Blogs](#blogs)
     - [Further Education](#further-education)
+    - [Paid Services](#paid-services)
   - [Other Comprehensive Lists](#other-comprehensive-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Workspace
-### CLI
+### System
 The following CLI applications are almost essential for all systems. They will be used to run various tasks mentioned further on.
 
+* [Explain Shell](http://explainshell.com/) - Handy tool that explains command-line commands
 * [**git**](http://git-scm.com/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [git cheat sheet](http://scotch.io/bar-talk/git-cheat-sheet)
 * [Node.js](http://nodejs.org/) - Install it via [NVM](https://github.com/creationix/nvm)
-* [Explain Shell](http://explainshell.com/) - Handy tool that explains command-line commands
 
 
 ### Apps
-* Browsers
+#### Browsers
   * [Chrome](https://www.google.com/intl/en/chrome/browser/)
   * [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) - Nightly builds of Chrome. Good to test bleeding edge features.
   * [Other Chromium Nightly Channels](http://www.chromium.org/getting-involved/dev-channel) - Use at your own risk.
@@ -66,6 +69,8 @@ The following CLI applications are almost essential for all systems. They will b
   * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
   * [Opera](http://www.opera.com/)
   * [Internet Explorer](http://www.modern.ie/en-us) - VM's that include various versions of Internet Explorer.
+
+#### Text Editors
 * Sublime Text
   * [Visual Enhancements for better coding](http://webdesign.tutsplus.com/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052)
   * Install [Package Manager](https://sublime.wbond.net/installation)
@@ -80,6 +85,8 @@ The following CLI applications are almost essential for all systems. They will b
 * [Github's Atom](https://atom.io/)
   * Recommended Packages
     * Emmet
+
+#### OS X Applications
 * [Alfred](http://www.alfredapp.com/)
   * [Recommended Workflows](https://github.com/zenorocha/alfred-workflows)
 * [Dash](http://kapeli.com/dash) - Search multiple programming documentation offline and online.
@@ -88,7 +95,6 @@ The following CLI applications are almost essential for all systems. They will b
 * [Pixelmator](http://www.pixelmator.com/) - Image editor.
 * [ImageOptim](http://imageoptim.com/) - Desktop app to optimize images.
 * [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial).
-* [nvALT](http://brettterpstra.com/projects/nvalt/) - App to take notes fast and efficient.
 
 ## Team Coordination
 * [Basecamp](https://basecamp.com/) - Project management. (:money_with_wings:)
@@ -130,10 +136,11 @@ The following CLI applications are almost essential for all systems. They will b
 * [Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
 * [Book of Front-End tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
-## Planning & Documentation
+### Command Line Tools
 
 ## Development
 ### Reference
+* [Devdocs.io](http://devdocs.io)
 * [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [Can I Use?](http://caniuse.com/)
 * [dochub](http://dochub.io/) - Online documentation for HTML, CSS, JavaScript.
@@ -196,12 +203,15 @@ The following CLI applications are almost essential for all systems. They will b
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 
+#### ES6
+
 #### Libraries
 * [ToDoMVC](http://todomvc.com/) - Explore the various MV-* libraries available.
 * [Angular.JS](http://angularjs.org)
 * [Backbone.js](http://backbonejs.org)
   * [Backplug](http://backplug.io/) - Discover Backbone Plugins
 * [React](http://facebook.github.io/react/) - JavaScript Library for building user interfaces.
+  * [Flux Architecture](https://github.com/facebook/flux)
 
 #### Listings & Online Tools
 * [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
@@ -218,6 +228,10 @@ The following CLI applications are almost essential for all systems. They will b
 #### Web Components
 * [WebComponents](http://webcomponents.org/)
 * [Custom Elements](http://customelements.io/)
+
+### Accessibility (a11y)
+* [a11y project](http://a11yproject.com/)
+* [tota11y](http://khan.github.io/tota11y/)
 
 ### Browser Extensions
 * [Web Developer Tools](http://chrispederick.com/work/web-developer/)
@@ -274,8 +288,14 @@ The following CLI applications are almost essential for all systems. They will b
 * [Teaching Materials](http://www.teaching-materials.org/) - This site hosts a variety of CC-licensed web development curriculum
 * [BentoBox](http://www.bentobox.io/)
 
+### Paid Services
+* [egghead.io](https://egghead.io) (:money_with_wings:)
+* [PluralSight](https://pluralsight.com) (:money_with_wings:)
+* [CodeSchool](https://codeschool.com) (:money_with_wings:)
+
 ## Other Comprehensive Lists
-* [Oozled](http://oozled.com/) - One of my favorites and most complete lists.
+* [awesome lists](https://github.com/sindresorhus/awesome)
+* [Oozled](http://oozled.com/)
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
 * <https://github.com/codylindley/frontend-tools>
 * <https://github.com/bebraw/jswiki/wiki>
