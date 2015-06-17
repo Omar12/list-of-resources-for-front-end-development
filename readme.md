@@ -21,6 +21,7 @@ It's purpose is to provide a specified list of resources for quick finding.
     - [Reference](#reference)
       - [Responsive Web Design](#responsive-web-design)
     - [Best Practices](#best-practices)
+    - [Performance](#performance)
     - [Front-End Frameworks](#front-end-frameworks)
     - [HTML](#html)
       - [Project Reference](#project-reference)
@@ -160,6 +161,10 @@ The following CLI applications are almost essential for all systems. They will b
 * [SEO for Web Apps](http://www.impressivewebs.com/seo-for-web-apps/)
 * [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/) - Best practices for modern web development
 
+### Performance
+* [Perf Tools Today](http://perf-tooling.today/)
+* [Awesome WPO](https://github.com/davidsonfellipe/awesome-wpo)
+
 ### Front-End Frameworks
 * [Foundation](http://foundation.zurb.com)
 * [Foundation for Apps](http://foundation.zurb.com/apps/)
@@ -207,6 +212,8 @@ The following CLI applications are almost essential for all systems. They will b
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 
 #### ES6
+
+#### Node.JS/IO.js
 
 #### Libraries
 * [ToDoMVC](http://todomvc.com/) - Explore the various MV-* libraries available.
@@ -303,8 +310,8 @@ The following CLI applications are almost essential for all systems. They will b
 
 ## Other Comprehensive Lists
 * [awesome lists](https://github.com/sindresorhus/awesome)
-* [Oozled](http://oozled.com/)
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
 * <https://github.com/codylindley/frontend-tools>
 * <https://github.com/bebraw/jswiki/wiki>
 * <https://github.com/cjbarber/ToolsOfTheTrade>
+* [Oozled](http://oozled.com/)
