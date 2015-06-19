@@ -61,7 +61,6 @@ The following CLI applications are almost essential for all systems. They will b
 * [**git**](http://git-scm.com/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [git cheat sheet](http://scotch.io/bar-talk/git-cheat-sheet)
-* [Node.js](http://nodejs.org/) - Install it via [NVM](https://github.com/creationix/nvm)
 
 
 ### Apps
@@ -81,14 +80,10 @@ The following CLI applications are almost essential for all systems. They will b
   	* Keyboard Shortcut: **`Shift+Cmd+P`** and start typing *Package Manager*. You can add any Sublime Text Package from this interface.
     * Recommended Packages
       * [Emmet](http://emmet.io/) - Improve your HTML and CSS workflow. ![image](http://i.imgur.com/RlW2xSU.gif)
-      * Sidebar Enhancements - Provides enhancements to the operations on Sidebar of Files and Folders for Sublime Text.
       * GitGutter - plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
-      * SublimeLinter - SublimeLinter highlights lines of code the linter deems to contain (potential) errors.
-      * SCSS - Bring SCSS file support to Sublime Text.
   * Recommended Theme: [Spacegray](http://kkga.github.io/spacegray/)
 * [Github's Atom](https://atom.io/)
-  * Recommended Packages
-    * Emmet
+* [Brackets](http://brackets.io/)
 
 #### OS X Applications
 * [Alfred](http://www.alfredapp.com/)
@@ -96,7 +91,6 @@ The following CLI applications are almost essential for all systems. They will b
 * [Dash](http://kapeli.com/dash) - Search multiple programming documentation offline and online.
 * [Transmit](https://panic.com/transmit/) - File Transfer app.
 * [Sketch](http://www.bohemiancoding.com/sketch/) - Vector Graphics app.
-* [Pixelmator](http://www.pixelmator.com/) - Image editor.
 * [ImageOptim](http://imageoptim.com/) - Desktop app to optimize images.
 * [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial).
 
@@ -105,11 +99,11 @@ The following CLI applications are almost essential for all systems. They will b
 * [Github](https://github.com) - Code hosting. (:money_with_wings:, Free)
 * [Slack](https://slack.com/) - Group chat.
 * [RedPen](https://redpen.io/) - Review designs with your team.
-* [Meldium](https://www.meldium.com/) - Team Password manager.
 * [Trello](https://trello.com/) - Virtual white board. Organize anything with your team.
+* [Meldium](https://www.meldium.com/) - Team Password manager.
 
 ## Design
-* [Flat UI Colors](http://flatuicolors.com/) - A palette of colors commonly used in Flat UI design.
+* [Invision App](http://www.invisionapp.com/) - Wireframe and prototype app.
 * [Subtle Patterns](http://subtlepatterns.com/) - Background patterns for your website.
 * [Meet the Ipsums](http://meettheipsums.com/) - Many flavors of the Lorem Ipsum text filler.
 * [Color Template](http://rocket-design.fr/color-template/) - Guide into using colors on your design.
@@ -126,7 +120,8 @@ The following CLI applications are almost essential for all systems. They will b
 * [Icono](http://saeedalipoor.github.io/icono/) - Pure CSS icons
 
 ## Workspace
-* [NodeJS](http://nodejs.org) - Install Node on your machine. Most of the tools listed are installed using NPM (included with Node).
+* [NodeJS](http://nodejs.org) - Most of the tools listed are installed using NPM (included with Node).
+  * [NVM](https://github.com/creationix/nvm)
 * [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point using different available libraries.
   * Installation: `npm install -g yo`
 * [Bower](http://bower.io/) - Bower is a package manager for the web.
@@ -147,13 +142,11 @@ The following CLI applications are almost essential for all systems. They will b
 * [Devdocs.io](http://devdocs.io)
 * [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [Can I Use?](http://caniuse.com/)
-* [dochub](http://dochub.io/) - Online documentation for HTML, CSS, JavaScript.
 * [simpl.info](http://www.simpl.info/) - Simplest possible examples of HTML, CSS and JavaScript.
 * [WebPlatform](http://www.webplatform.org/)
 * [The HTML 5 JavaScript API Index](http://html5index.org/)
 
 #### Responsive Web Design
-* [Brad Frost's This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html)
 * [Mailchimp UX Patterns](https://ux.mailchimp.com/patterns/)
 
 ### Best Practices
@@ -213,22 +206,18 @@ The following CLI applications are almost essential for all systems. They will b
 
 #### ES6
 
-#### Node.JS/IO.js
-
 #### Libraries
 * [ToDoMVC](http://todomvc.com/) - Explore the various MV-* libraries available.
-* [Angular.JS](http://angularjs.org)
-  * [Angular 2 Education](https://github.com/timjacobi/angular2-education)
-* [Backbone.js](http://backbonejs.org)
-  * [Backplug](http://backplug.io/) - Discover Backbone Plugins
 * [React](http://facebook.github.io/react/) - JavaScript Library for building user interfaces.
   * [awesome react](https://github.com/enaqx/awesome-react)
   * [Flux Architecture](https://github.com/facebook/flux)
 
 #### Listings & Online Tools
 * [Unheap](http://www.unheap.com/) - A nice looking collection of jQuery plugins categorized by type.
+* [CDNJS](https://cdnjs.com/)
 * [JSDB.io](http://jsdb.io) - Source of JavaScript libraries, frameworks and plugins.
 * [Regex 101](http://regex101.com/)
+* [Regexr](http://regexr.com/)
 
 #### Tools and Libraries
 * [fast.js](https://github.com/codemix/fast.js) - a collection of micro-optimizations that can help you write faster JavaScript code as it includes fast replacements for several built-in native methods.
