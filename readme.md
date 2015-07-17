@@ -12,7 +12,7 @@ It's purpose is to provide a specified list of resources for quick finding.
     - [Browsers](#browsers)
     - [Text Editors](#text-editors)
     - [OS X Applications](#os-x-applications)
-  - [Team Coordination](#team-coordination)
+  - [Team Collaboration](#team-collaboration)
   - [Design](#design)
     - [Fonts](#fonts)
     - [Stock Images](#stock-images)
@@ -94,11 +94,12 @@ The following CLI applications are almost essential for all systems. They will b
 * [ImageOptim](http://imageoptim.com/) - Desktop app to optimize images.
 * [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial).
 
-## Team Coordination
+## Team Collaboration
 * [Basecamp](https://basecamp.com/) - Project management. (:money_with_wings:)
 * [Github](https://github.com) - Code hosting. (:money_with_wings:, Free)
 * [Slack](https://slack.com/) - Group chat.
 * [RedPen](https://redpen.io/) - Review designs with your team.
+* [Zeplin](https://zeplin.io/) - Upload .sketch files and generate easy to work styleguides for developers.
 * [Trello](https://trello.com/) - Virtual white board. Organize anything with your team.
 * [Meldium](https://www.meldium.com/) - Team Password manager.
 
