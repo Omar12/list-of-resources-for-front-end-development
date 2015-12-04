@@ -58,7 +58,6 @@ The following CLI applications are almost essential for all systems. They will b
 
 * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Explain Shell](http://explainshell.com/) - Handy tool that explains command-line commands
-* [**git**](http://git-scm.com/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [git cheat sheet](http://scotch.io/bar-talk/git-cheat-sheet)
 
@@ -67,36 +66,36 @@ The following CLI applications are almost essential for all systems. They will b
 #### Browsers
   * [Chrome](https://www.google.com/intl/en/chrome/browser/)
   * [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) - Nightly builds of Chrome. Good to test bleeding edge features.
-  * [Other Chromium Nightly Channels](http://www.chromium.org/getting-involved/dev-channel) - Use at your own risk.
-  * Safari - Included on Mac OS X
   * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
+  * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
   * [Opera](http://www.opera.com/)
   * [Internet Explorer](http://www.modern.ie/en-us) - VM's that include various versions of Internet Explorer.
 
 #### Text Editors
-* Sublime Text
-  * [Visual Enhancements for better coding](http://webdesign.tutsplus.com/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052)
-  * Install [Package Manager](https://sublime.wbond.net/installation)
-  	* Keyboard Shortcut: **`Shift+Cmd+P`** and start typing *Package Manager*. You can add any Sublime Text Package from this interface.
-    * Recommended Packages
-      * [Emmet](http://emmet.io/) - Improve your HTML and CSS workflow. ![image](http://i.imgur.com/RlW2xSU.gif)
-      * GitGutter - plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
-  * Recommended Theme: [Spacegray](http://kkga.github.io/spacegray/)
-* [Github's Atom](https://atom.io/)
-* [Brackets](http://brackets.io/)
+* [Atom](https://atom.io/)
+  * Recommended Theme: [Material UI](https://atom.io/themes/atom-material-ui)
+    * `apm install atom-material-ui atom-material-syntax atom-material-syntax-light`
+  * Recommended Packages
+    * [Emmet](https://atom.io/packages/emmet) - Improve your HTML and CSS workflow.
+    * [minimap](https://atom.io/packages/minimap)
+    * [linter](https://atom.io/packages/linter)
+    * [linter-eslint](https://atom.io/packages/linter-eslint)
+    * [language-babel](https://atom.io/packages/language-babel)
+    * [merge conflicts](https://atom.io/packages/merge-conflicts)
+    * [file icons](https://atom.io/packages/file-icons)
+    * [activate power mode](https://atom.io/packages/activate-power-mode) (fun)
+  * [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+    * For more: [Codeface](https://github.com/chrissimpkins/codeface)
 
 #### OS X Applications
 * [Alfred](http://www.alfredapp.com/)
   * [Recommended Workflows](https://github.com/zenorocha/alfred-workflows)
 * [Dash](http://kapeli.com/dash) - Search multiple programming documentation offline and online.
-* [Transmit](https://panic.com/transmit/) - File Transfer app.
 * [Sketch](http://www.bohemiancoding.com/sketch/) - Vector Graphics app.
-* [ImageOptim](http://imageoptim.com/) - Desktop app to optimize images.
-* [Divvy](https://mizage.com/divvy/) or [SizeUp](https://www.irradiatedsoftware.com/sizeup/) (includes an unlimited Free Trial).
+* [Transmit](https://panic.com/transmit/) - File Transfer app.
 
 ## Team Collaboration
 * [Basecamp](https://basecamp.com/) - Project management. (:money_with_wings:)
-* [Github](https://github.com) - Code hosting. (:money_with_wings:, Free)
 * [Slack](https://slack.com/) - Group chat.
 * [RedPen](https://redpen.io/) - Review designs with your team.
 * [Zeplin](https://zeplin.io/) - Upload .sketch files and generate easy to work styleguides for developers.
@@ -115,30 +114,28 @@ The following CLI applications are almost essential for all systems. They will b
 * [TypeKit](http://typekit.com) (:money_with_wings:)
 * [Fontdeck](http://fontdeck.com) (:money_with_wings:)
 
+### Icons
+* [Noun Project](https://thenounproject.com/) (SVG)
+* [Evil Icons](http://evil-icons.io/) (SVG)
+* [Icomoon](https://icomoon.io/) (SVG)
+* [iconmonstr](http://iconmonstr.com/) (SVG)
+* [Icono](http://saeedalipoor.github.io/icono/) (CSS)
+
 ### Stock Images
 * [Gratisography](http://www.gratisography.com/)
 * [xstockvideo](http://www.xstockvideo.com/)
-* [Icono](http://saeedalipoor.github.io/icono/) - Pure CSS icons
+* [awesome images list](https://github.com/heyalexej/awesome-images)
 
 ## Workspace
-* [NodeJS](http://nodejs.org) - Most of the tools listed are installed using NPM (included with Node).
-  * [NVM](https://github.com/creationix/nvm)
-* [Yeoman](http://yeoman.io/index.html) - Yeoman defines an opinionated stack for web application development. The Yeoman packages provide a good and sometimes comprehensive starting point using different available libraries.
-  * Installation: `npm install -g yo`
-* [Bower](http://bower.io/) - Bower is a package manager for the web.
-  * Installation: `npm install -g bower`
-  * [Bower Component Search](http://bower.io/search/)
-* [Grunt](http://gruntjs.com/) - Grunt is a Task Runner. You can run various scripts onto your project folder and performs tasks like compile sass files, minify js or save files to a build folder.
-  * Installation: `npm install -g grunt-cli`
+* [NVM](https://github.com/creationix/nvm)
 * [Gulp](http://gulpjs.com/) - Another Task Runner. API is minimal but functional, it's more straight-forward than Grunt but less plugins available. The community is steadily growing.
   * [Gulp Plugins](http://gulpjs.com/plugins/)
   * [Gulp Starter](https://github.com/3bola/gulp-starter)
 * [Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
 * [Book of Front-End tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
-### Command Line Tools
+## Front-End Development
 
-## Development
 ### Reference
 * [Devdocs.io](http://devdocs.io)
 * [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
@@ -147,13 +144,12 @@ The following CLI applications are almost essential for all systems. They will b
 * [WebPlatform](http://www.webplatform.org/)
 * [The HTML 5 JavaScript API Index](http://html5index.org/)
 
-#### Responsive Web Design
-* [Mailchimp UX Patterns](https://ux.mailchimp.com/patterns/)
-
-### Best Practices
+### Checklists and General Guidelines
+* [Web Dev Checklist](http://webdevchecklist.com/)
 * [@mdo Code Guideline](http://mdo.github.io/code-guide/)
-* [SEO for Web Apps](http://www.impressivewebs.com/seo-for-web-apps/)
 * [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/) - Best practices for modern web development
+* [Mailchimp UX Patterns](https://ux.mailchimp.com/patterns/)
+* [SEO for Web Apps](http://www.impressivewebs.com/seo-for-web-apps/)
 
 ### Performance
 * [Perf Tools Today](http://perf-tooling.today/)
@@ -164,19 +160,13 @@ The following CLI applications are almost essential for all systems. They will b
 * [Foundation for Apps](http://foundation.zurb.com/apps/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Assemble.io](http://assemble.io/)
-* [HTML5 Boilerplate](http://html5boilerplate.com)
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter)
-
-### Checklists and General Guidelines
-* [Web Dev Checklist](http://webdevchecklist.com/)
 
 ### Tools
 #### Documentation of Projects
 * [Daux](http://daux.io/)
 * [StyleDocco](http://jacobrask.github.io/styledocco/)
 * [Pattern Lab](http://www.pattern-lab.info/) - Generate atomic design patterns
-
-### HTML
 
 ### Styles
 * [Pure CSS](http://purecss.io/)
@@ -192,18 +182,16 @@ The following CLI applications are almost essential for all systems. They will b
 ### SVG
 * [Awesome SVG](https://github.com/willianjusten/awesome-svg)
 * [Snap SVG](http://snapsvg.io/)
-* [SVG Icons](http://svgicons.sparkk.fr/)
 * [SVG Morpheus](http://alexk111.github.io/SVG-Morpheus/)
 * [Walkway](https://github.com/ConnorAtherton/walkway)
 * [SVG Loaders](http://samherbert.net/svg-loaders/)
 
 ### JavaScript
 #### Reference
-* [Superhero JS](http://superherojs.com/) - Quality articles related to JavaScript.
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
-* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [Superhero JS](http://superherojs.com/) - Quality articles related to JavaScript.
 
 #### ES6
 
@@ -222,14 +210,9 @@ The following CLI applications are almost essential for all systems. They will b
 
 #### Tools and Libraries
 * [fast.js](https://github.com/codemix/fast.js) - a collection of micro-optimizations that can help you write faster JavaScript code as it includes fast replacements for several built-in native methods.
-* [Velocity](http://julian.com/research/velocity/) - Velocity is a jQuery plugin that re-implements $.animate() to produce significantly greater performance
 * [InstantClick](http://instantclick.io/) - JavaScript library that dramatically speeds up your website, making navigation effectively instant in most cases.
 * [Moment.js](http://momentjs.com/)
 * [pageres](https://github.com/sindresorhus/pageres) - Screenshot automation.
-
-#### Web Components
-* [WebComponents](http://webcomponents.org/)
-* [Custom Elements](http://customelements.io/)
 
 ### Accessibility
 * [a11y project](http://a11yproject.com/)
@@ -237,12 +220,9 @@ The following CLI applications are almost essential for all systems. They will b
 
 ### Browser Extensions
 * [Web Developer Tools](http://chrispederick.com/work/web-developer/)
-* [Backtick](https://chrome.google.com/webstore/detail/backtick/daiejhinmmfgincamkeeobmpffhdljim)
 * [FontFace Ninja](http://www.fontface.ninja/)
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
 * [JunkFill](https://chrome.google.com/webstore/detail/junkfill/cajejbcjfkhgmfbapmhopccephhjedeb)
-* [Responsive Inspector](https://chrome.google.com/webstore/detail/responsive-inspector/memcdolmmnmnleeiodllgpibdjlkbpim)
-* [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
 
 ### Bookmarklets
 * [Backtick](http://backtick.io/) - Console for bookmarklets and scripts. (Chrome only)
@@ -253,29 +233,28 @@ The following CLI applications are almost essential for all systems. They will b
 * [Browserstack](http://www.browserstack.com)
 * [Bugsnag](https://bugsnag.com/)
 
-### Deployment
+### Desktop Deployment
 * [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. (Slack is deployed using Electron)
 
 ## Keeping Up To Date
+
+### Inspiration
+* [Site Inspire](http://www.siteinspire.com/)
+* [CodePen](http://codepen.io)
+
 ### Listings
 * [Panda App](https://usepanda.com/app/#/)
 * [Web Platform Daily](http://webplatformdaily.org/)
-* [HTML5 Bookmarks](http://www.html5bookmarks.com/)
-* [Site Inspire](http://www.siteinspire.com/)
-* [CodePen](http://codepen.io)
 * [EchoJS](http://www.echojs.com/) - JavaScript News
 * [LayerVault News](https://news.layervault.com/)
 
 ### Podcasts
 * [Shop Talk Show](http://shoptalkshow.com/)
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
-* [Adventures in Angular](http://devchat.tv/adventures-in-angular)
-* [The Web Ahead](http://5by5.tv/webahead)
 * [The Intellectual Radio Program](http://goodstuff.fm/tirp)
 
 ### Newsletters
 * [Web Design Weekly](http://web-design-weekly.com/)
-* [Sidebar.io](http://sidebar.io/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
 * [Web Tools Weekly](http://webtoolsweekly.com/)
@@ -288,20 +267,14 @@ The following CLI applications are almost essential for all systems. They will b
 * [Smashing Magazine](http://smashingmagazine.com)
 * [Codrops](http://tympanus.net/codrops/)
 
-### Further Education
+### Continued Education
+* [egghead.io](https://egghead.io) (:money_with_wings:)
 * [An Advance Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Teaching Materials](http://www.teaching-materials.org/) - This site hosts a variety of CC-licensed web development curriculum
-* [BentoBox](http://www.bentobox.io/)
-
-### Paid Services
-* [egghead.io](https://egghead.io) (:money_with_wings:)
-* [PluralSight](https://pluralsight.com) (:money_with_wings:)
-* [CodeSchool](https://codeschool.com) (:money_with_wings:)
 
 ## Other Comprehensive Lists
-* [awesome lists](https://github.com/sindresorhus/awesome)
+* [awesome lists](https://github.com/sindresorhus/awesome) :star:
 * <https://github.com/dypsilon/frontend-dev-bookmarks>
 * <https://github.com/codylindley/frontend-tools>
 * <https://github.com/bebraw/jswiki/wiki>
 * <https://github.com/cjbarber/ToolsOfTheTrade>
-* [Oozled](http://oozled.com/)
