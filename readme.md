@@ -104,7 +104,6 @@ The following CLI applications are almost essential for all systems. They will b
 
 ## Design
 * [Invision App](http://www.invisionapp.com/) - Wireframe and prototype app.
-* [Subtle Patterns](http://subtlepatterns.com/) - Background patterns for your website.
 * [Meet the Ipsums](http://meettheipsums.com/) - Many flavors of the Lorem Ipsum text filler.
 * [Color Template](http://rocket-design.fr/color-template/) - Guide into using colors on your design.
 * [Photoshop Etiquette](http://photoshopetiquette.com/) - A Guide to Discernible Web Design in Photoshop.
@@ -127,11 +126,10 @@ The following CLI applications are almost essential for all systems. They will b
 * [awesome images list](https://github.com/heyalexej/awesome-images)
 
 ## Workspace
-* [NVM](https://github.com/creationix/nvm)
-* [Gulp](http://gulpjs.com/) - Another Task Runner. API is minimal but functional, it's more straight-forward than Grunt but less plugins available. The community is steadily growing.
+* [nvm](https://github.com/creationix/nvm)
+* [Gulp](http://gulpjs.com/)
   * [Gulp Plugins](http://gulpjs.com/plugins/)
   * [Gulp Starter](https://github.com/3bola/gulp-starter)
-* [Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
 * [Book of Front-End tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
 ## Front-End Development
@@ -150,6 +148,9 @@ The following CLI applications are almost essential for all systems. They will b
 * [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/) - Best practices for modern web development
 * [Mailchimp UX Patterns](https://ux.mailchimp.com/patterns/)
 * [SEO for Web Apps](http://www.impressivewebs.com/seo-for-web-apps/)
+
+### Debugging and Testing
+* [Devtools Cheatsheet](http://anti-code.com/devtools-cheatsheet/)
 
 ### Performance
 * [Perf Tools Today](http://perf-tooling.today/)
@@ -173,11 +174,9 @@ The following CLI applications are almost essential for all systems. They will b
 * [Grid](http://www.adamkaplan.me/grid/)
 * [Sass Guidelines](http://sass-guidelin.es/)
 * [Sass](http://sass-lang.com/) - Sass language reference
-* [Sache](http://www.sache.in/) - Discover Sass & Compass Extensions
 * <http://www.justinaguilar.com/animations/index.html>
 * <http://www.createcss3.com/>
 * <http://usablica.github.io/front-end-frameworks/compare.html?v=2.0>
-* <http://yostudios.github.io/Spritemapper/>
 
 ### SVG
 * [Awesome SVG](https://github.com/willianjusten/awesome-svg)
